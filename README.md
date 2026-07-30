@@ -1,16 +1,55 @@
-## Hi there 👋
+<img src="./hero.jpg" width="100%" alt="Milo's cover" />
 
-<!--
-**meeloong/meeloong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 嗨，我是米洛 👋
 
-Here are some ideas to get you started:
+AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学习（RL）** 的真实应用。  
+世界探险家 ｜ 职业睡眠家 😴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 我正在做的事情
+
+- 构建可落地的 AI 应用与智能体工作流
+- 学习强化学习（RL），理解智能决策的底层逻辑
+- 探索 AI 在品牌增长、营销自动化与客户支持中的应用
+- 寻找 AI 应用、AI开发的实习或合作机会
+
+---
+
+## 🚀 个人项目
+
+### [客户 RAG 评估平台](https://github.com/meeloong/customer-rag-evaluation-platform)
+
+基于证据链的客户支持 RAG 评估与工单决策平台。  
+**技术：** Python · FastAPI · LightRAG · PostgreSQL
+
+### [AI 品牌智能平台](https://github.com/meeloong/ai-brand-intelligence-platform)
+
+面向品牌业务分析与增长决策的多智能体平台。  
+**技术：** Python · LLM · Agent · 数据分析
+
+### [AI 营销代理](https://github.com/meeloong/AI-Marketing-Agent)
+
+探索 AI Agent 在营销策略、内容生成与业务自动化中的应用。  
+**技术：** Python · LLM · Agent
+
+---
+
+## 🧰 技术栈
+
+**编程与后端：** Python · FastAPI · PostgreSQL  
+
+**AI 应用：** LLM · RAG · AI Agent · Prompt Engineering  
+
+**数据能力：** 数据分析 · Pandas · 可视化  
+
+**正在学习：** Reinforcement Learning · Multi-Agent Systems
+
+---
+
+## 📮 欢迎联系
+
+如果你对 AI 应用、Agent 或AI技术化感兴趣，欢迎交流或合作。
+
+- GitHub: [@meeloong](https://github.com/meeloong)
+- 邮箱：meelone@163.com
