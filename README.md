@@ -1,4 +1,7 @@
-<img src="./cover.jpg" alt="雏菊风景" width="100%" />
+<p align="center">
+  <img src="./landscape-v1.jpg" alt="雏菊风景" width="100%" />
+</p>
+
 # 嗨，我是米洛 👋
 
 AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学习（RL）** 的真实应用。  
@@ -17,7 +20,7 @@ AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学�
 
 ## 🚀 个人项目
 
-### [客户 RAG 评估平台](https://github.com/meeloong/customer-rag-evaluation-platform)
+### [客服 RAG 工单平台](https://github.com/meeloong/customer-rag-evaluation-platform)
 
 基于证据链的客户支持 RAG 评估与工单决策平台。  
 **技术：** Python · FastAPI · LightRAG · PostgreSQL
