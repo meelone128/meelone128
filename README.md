@@ -3,6 +3,13 @@
 </p>
 
 # 嗨，我是米洛 👋
+<!-- github-intro:start -->
+
+> **AI 应用方向开发者**｜持续构建可运行、可评测、可解释的 RAG 与 Agent 项目，关注客户支持、品牌增长与营销自动化等真实业务场景。
+
+![Focus](https://img.shields.io/badge/Focus-RAG_%7C_Agent_%7C_Evaluation-6E40C9) ![Stack](https://img.shields.io/badge/Stack-Python_%7C_FastAPI_%7C_Streamlit-3776AB)
+
+<!-- github-intro:end -->
 
 AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学习（RL）** 的真实应用。  
 世界探险家 ｜ 职业睡眠家 😴
@@ -20,17 +27,17 @@ AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学�
 
 ## 🚀 个人项目
 
-### [客服 RAG 工单平台](https://github.com/meeloong/customer-rag-evaluation-platform)
+### [客服 RAG 工单平台](https://github.com/meelone128/customer-rag-evaluation-platform)
 
 基于证据链的客户支持 RAG 评估与工单决策平台。  
 **技术：** Python · FastAPI · LightRAG · PostgreSQL
 
-### [AI 品牌运营智能平台](https://github.com/meeloong/ai-brand-intelligence-platform)
+### [AI 品牌运营智能平台](https://github.com/meelone128/ai-brand-intelligence-platform)
 
 面向品牌业务分析与增长决策的多智能体平台。  
 **技术：** Python · LLM · Agent · 数据分析
 
-### [AI 营销助手](https://github.com/meeloong/AI-Marketing-Agent)
+### [AI 营销助手](https://github.com/meelone128/AI-Marketing-Agent)
 
 探索 AI Agent 在营销策略、内容生成与业务自动化中的应用。  
 **技术：** Python · LLM · Agent
