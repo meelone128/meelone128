@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./landscape-v1.jpg" alt="雏菊风景" width="60%" />
-</p>
-
+<img src="./cover.jpg" alt="雏菊风景" width="100%" />
 # 嗨，我是米洛 👋
 
 AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学习（RL）** 的真实应用。  
