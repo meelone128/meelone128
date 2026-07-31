@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./landscape-v1.jpg" alt="雏菊风景" width="100%" />
+  <img src="cover.jpg" alt="雏菊风景" width="100%" />
 </p>
 
 # 嗨，我是米洛 👋
