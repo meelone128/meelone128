@@ -1,4 +1,6 @@
-<img src="./hero.jpg" width="100%" alt="Milo's cover" />
+<p align="center">
+  <img src="./landscape-v1.jpg" alt="风景照片" width="100%" />
+</p>
 
 # 嗨，我是米洛 👋
 
