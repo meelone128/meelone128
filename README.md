@@ -25,12 +25,12 @@ AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学�
 基于证据链的客户支持 RAG 评估与工单决策平台。  
 **技术：** Python · FastAPI · LightRAG · PostgreSQL
 
-### [AI 品牌智能平台](https://github.com/meeloong/ai-brand-intelligence-platform)
+### [AI 品牌运营智能平台](https://github.com/meeloong/ai-brand-intelligence-platform)
 
 面向品牌业务分析与增长决策的多智能体平台。  
 **技术：** Python · LLM · Agent · 数据分析
 
-### [AI 营销代理](https://github.com/meeloong/AI-Marketing-Agent)
+### [AI 营销助手](https://github.com/meeloong/AI-Marketing-Agent)
 
 探索 AI Agent 在营销策略、内容生成与业务自动化中的应用。  
 **技术：** Python · LLM · Agent
