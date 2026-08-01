@@ -60,5 +60,5 @@ AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学�
 
 如果你对 AI 应用、Agent 或AI技术化感兴趣，欢迎交流或合作。
 
-- GitHub: [@meelone127](https://github.com/meelone128)
+- GitHub: [@meelone128](https://github.com/meelone128)
 - 邮箱：meelone@163.com
