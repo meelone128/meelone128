@@ -5,7 +5,7 @@
 # 嗨，我是米洛 👋
 <!-- github-intro:start -->
 
-> **AI 应用方向开发者**｜持续构建可运行、可评测、可解释的 RAG 与 Agent 项目，关注客户支持、品牌增长与营销自动化等真实业务场景。
+
 
 ![Focus](https://img.shields.io/badge/Focus-RAG_%7C_Agent_%7C_Evaluation-6E40C9) ![Stack](https://img.shields.io/badge/Stack-Python_%7C_FastAPI_%7C_Streamlit-3776AB)
 
