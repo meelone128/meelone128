@@ -11,7 +11,7 @@
 
 <!-- github-intro:end -->
 
-AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学习（RL）** 的真实应用。  
+计算机科学与技术大三在读，2027毕业。AI 应用 AI Agent 学习中，正在探索 **LLM、RAG、AI Agent 与强化学习（RL）** 的真实应用。  
 世界探险家 ｜ 职业睡眠家 😴
 
 ---
