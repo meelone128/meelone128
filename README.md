@@ -33,7 +33,7 @@
 基于证据链的客户支持 RAG 评估与工单决策平台。  
 **技术：** Python · FastAPI · LightRAG · PostgreSQL
 
-### [AI 品牌运营智能平台](https://github.com/meelone128/ai-brand-intelligence-platform)
+### AI-Marketing-Agent ](https://github.com/meelone128/ai-brand-intelligence-platform)
 
 面向品牌业务分析与增长决策的多智能体平台。  
 **技术：** Python · LLM · Agent · 数据分析
