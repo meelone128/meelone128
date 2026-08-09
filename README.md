@@ -37,10 +37,6 @@
 面向品牌业务分析与增长决策的多智能体平台。  
 **技术：** Python · LLM · Agent · 数据分析
 
-### [AI 营销助手](https://github.com/meelone128/AI-Marketing-Agent)
-
-探索 AI Agent 在营销策略、内容生成与业务自动化中的应用。  
-**技术：** Python · LLM · Agent
 
 ---
 
