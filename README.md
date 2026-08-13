@@ -3,58 +3,52 @@
 </p>
 
 # 嗨，我是米洛 👋
-<!-- github-intro:start -->
 
+![Focus](https://img.shields.io/badge/Focus-RAG_%7C_Multi--Agent_%7C_Evaluation-6E40C9) ![Stack](https://img.shields.io/badge/Stack-Python_%7C_FastAPI_%7C_React_%7C_Qdrant-3776AB)
 
-
-![Focus](https://img.shields.io/badge/Focus-RAG_%7C_Agent_%7C_Evaluation-6E40C9) ![Stack](https://img.shields.io/badge/Stack-Python_%7C_FastAPI_%7C_Streamlit-3776AB)
-
-<!-- github-intro:end -->
-
-计算机科学与技术专业，大三在读，2027毕业。AI 应用 AI Agent 学习中，我热忱探索 AI 在业务环境中的实际应用，尤其关注 Agent、上下文工程与产品工作流设计，尝试让模型能力真正融入真实用户与业务流程。 
+计算机科学与技术专业，大三在读，2027 毕业。专注 AI 应用开发，关注 Agent、RAG、上下文工程与业务工作流设计，尝试让模型能力真正融入真实用户与业务流程。
 
 世界探险家 ｜ 职业睡眠家 😴
 
 ---
 
 ## 💡 我正在做的事情
-- AI Agent 知识持续学习中
-- 构建可落地的 AI 应用与智能体工作流
-- 学习强化学习（RL），理解智能决策的底层逻辑
-- 寻找 AI 应用、AI开发的实习或合作机会
+
+- 构建可落地的 AI 应用、RAG 与智能体工作流
+- 探索检索质量、证据溯源、人工审核与离线评测
+- 寻找 AI 应用开发、AI 解决方案相关实习或合作机会
 
 ---
 
 ## 🚀 个人项目
 
-### [客服 RAG 工单平台](https://github.com/meelone128/customer-rag-evaluation-platform)
+### [SupportFlow｜企业客服工单多 Agent 协同运营平台](https://github.com/meelone128/supportflow-ai-customer-ops)
 
-基于证据链的客户支持 RAG 评估与工单决策平台。  
-**技术：** Python · FastAPI · LightRAG · PostgreSQL
+面向企业客服运营的工单智能处理平台。围绕分流、知识检索、回复生成、质量校验和人工审核构建多 Agent 协同流程；按风险等级决定自动回复、AI 草稿审核或升级人工，并将审核反馈回流为知识运营依据。  
+**技术：** Python · FastAPI · React · Qdrant · LangGraph / LangChain · Docker Compose
 
-### [AI-Marketing-Agent](https://github.com/meelone128/ai-brand-intelligence-platform)
+### [SupplierEvidence｜供应商准入与采购证据核验 RAG 平台](https://github.com/meelone128/supplier-evidence-rag)
 
-面向品牌业务分析与增长决策的多智能体平台。  
-**技术：** Python · LLM · Agent · 数据分析
-
+面向采购与供应商准入复核的证据核验 RAG 平台。融合 BM25、Qdrant 向量检索与 RRF 排序，通过 Evidence Gate 与 Output Gate 检查材料缺失、资质时效、跨文档冲突及引用越界，输出可追溯的人工复核建议。  
+**技术：** Python · FastAPI · React · Qdrant · BM25 · RRF · Docker Compose
 
 ---
 
 ## 🧰 技术栈
 
-**编程与后端：** Python · FastAPI · PostgreSQL  
+**编程与工程：** Python · FastAPI · React · Docker Compose · Git
 
-**AI 应用：** LLM · RAG · AI Agent · Prompt Engineering  
+**AI 应用：** LLM · RAG · Multi-Agent · Tool Calling · Prompt Engineering
 
-**数据能力：** 数据分析 · Pandas · 可视化  
+**检索与评测：** Qdrant · Embedding · BM25 · RRF · 引用溯源 · 固定回归评测
 
-**正在学习：** Reinforcement Learning · Multi-Agent Systems
+**数据能力：** Pandas · 数据处理 · 可视化
 
 ---
 
 ## 📮 欢迎联系
 
-如果你对 AI 应用、Agent 或AI技术化感兴趣，欢迎交流或合作。
+如果你对 AI 应用、RAG、Agent 或 AI 工程化感兴趣，欢迎交流或合作。
 
 - GitHub: [@meelone128](https://github.com/meelone128)
 - 邮箱：meelone@163.com
