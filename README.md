@@ -42,8 +42,6 @@
 
 **AI 应用：** LLM · RAG · Multi-Agent · Tool Calling · Prompt Engineering
 
-**检索与评测：** Qdrant · Embedding · BM25 · RRF · 引用溯源 · 固定回归评测
-
 ---
 
 ## 📮 欢迎联系
