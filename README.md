@@ -6,7 +6,7 @@
 
 ![Focus](https://img.shields.io/badge/Focus-RAG_%7C_Multi--Agent_%7C_Evaluation-6E40C9) ![Stack](https://img.shields.io/badge/Stack-Python_%7C_FastAPI_%7C_React_%7C_Qdrant-3776AB)
 
-计算机科学与技术专业，大三在读，2027 毕业。专注 AI 应用开发，关注 Agent、RAG、上下文工程与业务工作流设计，尝试让模型能力真正融入真实用户与业务流程。
+计算机科学与技术专业，大三在读，2027 毕业。专注 AI 应用开发，AI产品方向，关注 Agent、RAG、上下文工程与业务工作流设计，尝试让模型能力真正融入真实用户与业务流程。
 
 世界探险家 ｜ 职业睡眠家 😴
 
