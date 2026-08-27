@@ -46,7 +46,5 @@
 
 ## 📮 欢迎联系
 
-如果你对 AI 应用、RAG、Agent 或 AI 工程化感兴趣，欢迎交流或合作。
-
-- GitHub: [@meelone128](https://github.com/meelone128)
+如果你对 AI 应用、RAG、Agent 或 AI 工程化感兴趣，欢迎结识和合作。
 - 邮箱：meelone@163.com
