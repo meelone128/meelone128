@@ -38,7 +38,7 @@
 
 ## 🧰 技术栈
 
-**编程与工程：** Python · FastAPI · React · Docker Compose · Git
+**编程与工程：** Python · FastAPI · React · Docker · Git
 
 **AI 应用：** LLM · RAG · Multi-Agent · Tool Calling · Prompt Engineering
 
