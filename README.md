@@ -35,6 +35,7 @@
 面向采购与供应商准入复核的证据核验 RAG 平台。融合 BM25、Qdrant 向量检索与 RRF 排序，通过 Evidence Gate 与 Output Gate 检查材料缺失、资质时效、跨文档冲突及引用越界，输出可追溯的人工复核建议。  
 **技术：** Python · FastAPI · React · Qdrant · BM25 · RRF · Docker Compose
 
+
 ---
 
 ## 🧰 技术栈
