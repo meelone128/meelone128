@@ -46,7 +46,6 @@
 
 **定位：** AI Native · Language Learning · Personal Product
 
-> Building now 🚧
 
 ---
 
