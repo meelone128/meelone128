@@ -7,7 +7,7 @@
 ![Focus](https://img.shields.io/badge/Focus-AI%20Product%20%7C%20RAG%20%7C%20Agent-6E40C9)
 ![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20React%20%7C%20Qdrant-3776AB)
 
-计算机科学与技术专业，大三在读，2027 毕业。
+计算机科学与技术专业，2027 毕业。
 
 专注 **AI 应用开发与 AI 产品方向**，关注 Agent、RAG、上下文工程与业务工作流设计，也在尝试把模型能力真正做成能够被用户持续使用的产品。
 
