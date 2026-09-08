@@ -78,6 +78,6 @@
 
 ## 📮 欢迎联系
 
-如果你对 AI 应用、RAG、Agent、AI 产品或 Hackathon 感兴趣，欢迎交流、合作或一起做点有意思的东西。
+如果你对 AI 应用、RAG、Agent、AI 产品或 Hackathon 感兴趣，欢迎交流、合作或一起做有意思的东西。
 
 邮箱：meelone@163.com
